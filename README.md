@@ -27,3 +27,4 @@ The Titanic Dataset is available from various sources like Kaggle, UCI Machine L
    - Survival analysis: Analyzing survival rates based on passenger class, gender, age, etc.
 
 4. **Interpretation:** Findings from EDA will be interpreted to draw conclusions and insights about the Titanic dataset, including factors influencing survival rates and passenger demographics.
+![titanic image](https://github.com/Rajkumar062003/Titanic_Dataset/blob/main/titanic.png)
